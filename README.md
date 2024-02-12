@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tomas Roy</h1>
 <h2 align="center">Front End Developer and WordPress Expert.</h2>
-<hr>
 <br>
 <br>
 <h2 align="center">🙋‍♂️ ABOUT ME...</h2>
