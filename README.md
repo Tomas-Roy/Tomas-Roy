@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Tomas Roy</h1>
+<h1 style="border:none;" align="center">Hi 👋, I'm Tomas Roy</h1>
 <h2 align="center">Front End Developer and WordPress Expert.</h2>
 <br>
 <br>
