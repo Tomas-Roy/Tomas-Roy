@@ -1,3 +1,4 @@
+![logo](https://github.com/Tomas-Roy/Tomas-Roy/blob/main/github-banner.png)
 <h1 style="border:none;" align="center">Hi 👋, I'm Tomas Roy</h1>
 <h2 align="center">Front End Developer and WordPress Expert.</h2>
 <br>
