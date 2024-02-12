@@ -4,7 +4,9 @@
 <br>
 <br>
 <h2 align="center">🙋‍♂️ ABOUT ME...</h2>
-<h3 align="center">Hi, I am Tomas Roy, A Professional Web Designer, and WordPress Specialist. With more than 1+ YEARS of working experience in creating a designing and responsive website. I build high-end, user-friendly, and responsive custom websites. I am an expert in Website designing Using HTML5, CSS3, Bootstrap, Mysql, jQuery, PSD, XD, WordPress Customize, and FIGMA to HTML landing pages etc. I am also an expert in My code Responsive, Mobile friendly, and W3C Validated. You need my service Contact me. Regards, Tomas Roy</h3>
+<h3 align="center">Hi, I am Tomas Roy, A Professional Web Designer, and WordPress Specialist. With more than 1+ YEARS of working experience in creating a designing and responsive website. I build high-end, user-friendly, and responsive custom websites. I am an expert in Website designing Using HTML5, CSS3, Bootstrap, Mysql, jQuery, PSD, XD, WordPress Customize, and FIGMA to HTML landing pages etc. I am also an expert in My code Responsive, Mobile friendly, and W3C Validated. You need my service Contact me.
+<br>
+Regards, Tomas Roy</h3>
 <img align="center" alt="coading" width="50%" src="https://media.licdn.com/dms/image/C5622AQHQBmLyj25RDw/feedshare-shrink_2048_1536/0/1651104968096?e=2147483647&v=beta&t=GvQevKfWRo11ecsg-wzQaQV7IP5mutdp_0YAWhmRJls"> <br> <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tomas-roy&label=Profile%20views&color=0e75b6&style=flat" alt="tomas-roy" /> </p>
 
